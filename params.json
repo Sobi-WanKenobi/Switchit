@@ -1,0 +1,6 @@
+{
+  "name": "SwitchIt",
+  "tagline": "Feature-flag and A,B,C...n Test Switching System",
+  "body": "### Welcome to the home of SwitchIt, the open source feature flagging tool.\r\n\r\n### Authors and Contributors\r\nIn 2016, Ken Sobieski (@sobi-wankenobi) founded SwitchIt.\r\n\r\nThe SwitchIt project name is courtesy of [Jeff Keller, Senior Copywriter, Quicken Loans](http://www.quickenloans.com/blog/author/jeff-keller)\r\n\r\n### Support or Contact\r\nHaving trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
